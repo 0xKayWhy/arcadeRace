@@ -4,6 +4,7 @@
 * [General info](#general-info)
 * [How to play](#how-to-play)
 * [Tech stack](#tech-stack)
+* [Overview](#overview)
 
 
 ## General info
