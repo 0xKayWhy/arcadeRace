@@ -14,7 +14,7 @@ Experience the thrill of Arcade Car Race!
 Use only your left and right arrow keys to navigate through traffic and avoid collisions. 10 points will be given every 1 second and game will ends at 500 points. Let's test your skills!
 
 ## Tech stack
-This game is actually built using Document Object Model (DOM)
+This game is actually built using Document Object Model (DOM) manipulation
 * JavaScript
 * HTML
 * CSS
