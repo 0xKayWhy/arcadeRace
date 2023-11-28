@@ -57,12 +57,12 @@ document.addEventListener("click",()=> {
 
   // Attach click event listener to trigger the page transition
   document.addEventListener("click", (event) => {
-    if (event.target == chaos || event.target == chill) {
+    if (event.target == chill) {
         buttonA.play();
         const fadeOut = document.querySelector(".fade-out");
         fadeOut.classList.add("active");
         setTimeout(() => {
-            window.location.href = "./index.html";
+            window.location.href = "./landing.html";
         }, 500);
     }
 });

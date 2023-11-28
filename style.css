@@ -110,14 +110,14 @@ body {
     background-color: #e97d55;
   }
   
-  .buttons.chaos:hover {
+  /* .buttons.chaos:hover {
     background-color: #ff5722;
   }
   
   .buttons.chaos:active {
     transform: translateY(2px);
     box-shadow: none;
-  }
+  } */
 
   .fade-out {
     position: fixed;
