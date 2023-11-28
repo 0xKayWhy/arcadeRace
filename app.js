@@ -184,7 +184,7 @@ class CarGame {
             this.randomPic();
             this.parent.appendChild(this.randomObject);
             this.randomObject.classList.add("randomCars");
-            this.randomObject.src = "../Images/" + this.pictures[this.randomPic()];
+            this.randomObject.src = "./Images/" + this.pictures[this.randomPic()];
             console.log(this.randomPic());
             this.randomObject.style.marginLeft  = Math.floor(Math.random() * 800)-400 + "px";
             if(this.score < 100) {
@@ -409,7 +409,7 @@ class CarGame {
             if (event.target == element) {
                             buttonA.play();
                 setTimeout(() => {
-                    window.location.href = "./landing.html";
+                    window.location.href = "./index.html";
                 }, 500);
             }
 
