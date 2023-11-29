@@ -322,7 +322,7 @@ class CarGame {
             if(!this.switcher) {
                 return;
             }
-            if (this.score === 500) {
+            if (this.score === 100) {
                 this.levelA.play();
                 this.stage.innerText = "Stage : 2";
                 this.levelUp.style.visibility = "visible";
