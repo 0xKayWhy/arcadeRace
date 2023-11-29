@@ -20,4 +20,5 @@ This game is actually built using Document Object Model (DOM) manipulation
 * CSS
 
 ## Overview
-
+Here is the snapshot of the gameplay
+![Local Image](./Images/arcade.png)
